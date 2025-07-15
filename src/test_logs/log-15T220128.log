@@ -1,0 +1,41 @@
+22:01:28.904 [main] INFO  org.testng.internal.Utils -%PARSER_ERROR[kvp]- [TestNG] Running:
+  C:\Users\uragv\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+22:01:32.470 [main] INFO  com.internethero.tests.TestBase -%PARSER_ERROR[kvp]- Start test: checkLastHover
+22:01:32.481 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- The locator will find By.linkText: Hovers
+22:01:32.481 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- **********************************
+22:01:32.510 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- The locator is By.linkText: Hovers
+22:01:32.511 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- **********************************
+22:01:32.852 [Forwarding actions on session 635fdd559079cf383d1a56288ba911ea to remote] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- The locator will find By.cssSelector: .figure:nth-child()
+22:01:32.852 [Forwarding actions on session 635fdd559079cf383d1a56288ba911ea to remote] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- **********************************
+22:01:32.873 [Forwarding actions on session 635fdd559079cf383d1a56288ba911ea to remote] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- Test have a problem
+22:01:32.873 [Forwarding actions on session 635fdd559079cf383d1a56288ba911ea to remote] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- **********************************
+22:01:32.873 [Forwarding actions on session 635fdd559079cf383d1a56288ba911ea to remote] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- Method --> findElement
+22:01:32.873 [Forwarding actions on session 635fdd559079cf383d1a56288ba911ea to remote] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- **********************************
+22:01:32.874 [Forwarding actions on session 635fdd559079cf383d1a56288ba911ea to remote] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- TargetException --> org.openqa.selenium.InvalidSelectorException: invalid selector: An invalid or illegal selector was specified
+  (Session info: chrome=138.0.7204.50)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Build info: version: '4.26.0', revision: '8ccf0219d7'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [635fdd559079cf383d1a56288ba911ea, findElement {using=css selector, value=.figure:nth-child()}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.50, chrome: {chromedriverVersion: 137.0.7151.119 (e0ac9d12dff..., userDataDir: C:\Users\uragv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53382}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53382/devtoo..., se:cdpVersion: 138.0.7204.50, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 635fdd559079cf383d1a56288ba911ea
+22:01:32.874 [Forwarding actions on session 635fdd559079cf383d1a56288ba911ea to remote] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- **********************************
+22:01:32.875 [Forwarding actions on session 635fdd559079cf383d1a56288ba911ea to remote] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- Object target --> ChromeDriver: chrome on windows (635fdd559079cf383d1a56288ba911ea)
+22:01:32.875 [Forwarding actions on session 635fdd559079cf383d1a56288ba911ea to remote] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- **********************************
+22:01:33.033 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- Test have a problem
+22:01:33.033 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- **********************************
+22:01:33.033 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- Method --> perform
+22:01:33.033 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- **********************************
+22:01:33.034 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- TargetException --> org.openqa.selenium.json.JsonException: java.lang.reflect.InvocationTargetException
+Build info: version: '4.26.0', revision: '8ccf0219d7'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [635fdd559079cf383d1a56288ba911ea, actions {actions=[org.openqa.selenium.interactions.Sequence@7ce7e83c]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.50, chrome: {chromedriverVersion: 137.0.7151.119 (e0ac9d12dff..., userDataDir: C:\Users\uragv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53382}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53382/devtoo..., se:cdpVersion: 138.0.7204.50, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 635fdd559079cf383d1a56288ba911ea
+22:01:33.034 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- **********************************
+22:01:33.034 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- Object target --> ChromeDriver: chrome on windows (635fdd559079cf383d1a56288ba911ea)
+22:01:33.034 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- **********************************
+22:01:33.163 [main] INFO  com.internethero.tests.TestBase -%PARSER_ERROR[kvp]- Test result: FAILED checkLastHover

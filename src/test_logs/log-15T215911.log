@@ -1,0 +1,5 @@
+21:59:12.331 [main] INFO  org.testng.internal.Utils -%PARSER_ERROR[kvp]- [TestNG] Running:
+  C:\Users\uragv\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+21:59:15.326 [main] INFO  com.internethero.tests.TestBase -%PARSER_ERROR[kvp]- Start test: checkLastHover
+21:59:15.709 [main] INFO  com.internethero.tests.TestBase -%PARSER_ERROR[kvp]- Test result: FAILED checkLastHover

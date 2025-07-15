@@ -1,0 +1,17 @@
+22:02:14.257 [main] INFO  org.testng.internal.Utils -%PARSER_ERROR[kvp]- [TestNG] Running:
+  C:\Users\uragv\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+22:02:17.583 [main] INFO  com.internethero.tests.TestBase -%PARSER_ERROR[kvp]- Start test: checkLastHover
+22:02:17.596 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- The locator will find By.linkText: Hovers
+22:02:17.596 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- **********************************
+22:02:17.626 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- The locator is By.linkText: Hovers
+22:02:17.627 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- **********************************
+22:02:17.962 [Forwarding actions on session 6c8d64ef0bc01687f413496ada075f32 to remote] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- The locator will find By.cssSelector: .figure:nth-child(5)
+22:02:17.962 [Forwarding actions on session 6c8d64ef0bc01687f413496ada075f32 to remote] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- **********************************
+22:02:17.981 [Forwarding actions on session 6c8d64ef0bc01687f413496ada075f32 to remote] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- The locator is By.cssSelector: .figure:nth-child(5)
+22:02:17.981 [Forwarding actions on session 6c8d64ef0bc01687f413496ada075f32 to remote] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- **********************************
+22:02:18.108 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- The locator will find By.cssSelector: .figure:nth-child(5)
+22:02:18.108 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- **********************************
+22:02:18.122 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- The locator is By.cssSelector: .figure:nth-child(5)
+22:02:18.123 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- **********************************
+22:02:18.146 [main] INFO  com.internethero.tests.TestBase -%PARSER_ERROR[kvp]- Test result: FAILED checkLastHover

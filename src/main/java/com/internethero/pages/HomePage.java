@@ -4,8 +4,6 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 
-import java.awt.*;
-
 public class HomePage extends BasePage {
 
     public HomePage(WebDriver driver) {
@@ -59,5 +57,12 @@ public class HomePage extends BasePage {
     public DropdownListPage getDropdown() {
         click(dropdown);
         return new DropdownListPage(driver);
+    }
+
+    @FindBy(linkText = "File Upload")
+    WebElement fileUpload;
+    public FileUploadPage getFileUploud() {
+        click(fileUpload);
+        return new FileUploadPage(driver);
     }
 }
