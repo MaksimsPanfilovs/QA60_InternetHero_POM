@@ -1,0 +1,48 @@
+19:25:05.344 [main] INFO  com.internethero.tests.TestBase -%PARSER_ERROR[kvp]- Start test: jsAlertTest
+19:25:05.357 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- The locator will find By.linkText: JavaScript Alerts
+19:25:05.357 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- **********************************
+19:25:05.407 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- The locator is By.linkText: JavaScript Alerts
+19:25:05.407 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- **********************************
+19:25:05.806 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- Test have a problem
+19:25:05.806 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- **********************************
+19:25:05.806 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- Method --> executeScript
+19:25:05.806 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- **********************************
+19:25:05.812 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- TargetException --> org.openqa.selenium.JavascriptException: javascript error: Cannot read properties of null (reading 'style')
+  (Session info: chrome=138.0.7204.50)
+Build info: version: '4.26.0', revision: '8ccf0219d7'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [09c0e18d8ce49936a81916266d8d0548, executeScript {script=document.getElementById('fixedban').style.display = 'none';, args=[]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.50, chrome: {chromedriverVersion: 137.0.7151.119 (e0ac9d12dff..., userDataDir: C:\Users\uragv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49930}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49930/devtoo..., se:cdpVersion: 138.0.7204.50, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 09c0e18d8ce49936a81916266d8d0548
+19:25:05.813 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- **********************************
+19:25:05.813 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- Object target --> ChromeDriver: chrome on windows (09c0e18d8ce49936a81916266d8d0548)
+19:25:05.813 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- **********************************
+19:25:08.870 [main] INFO  com.internethero.tests.TestBase -%PARSER_ERROR[kvp]- Start test: checkFirstHover
+19:25:08.870 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- The locator will find By.linkText: Hovers
+19:25:08.870 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- **********************************
+19:25:08.920 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- The locator is By.linkText: Hovers
+19:25:08.920 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- **********************************
+19:25:09.257 [Forwarding actions on session 67eebbbfd37e0d84bc59ee30a69a0c6b to remote] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- The locator will find By.cssSelector: .figure:nth-child(3)
+19:25:09.258 [Forwarding actions on session 67eebbbfd37e0d84bc59ee30a69a0c6b to remote] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- **********************************
+19:25:09.285 [Forwarding actions on session 67eebbbfd37e0d84bc59ee30a69a0c6b to remote] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- The locator is By.cssSelector: .figure:nth-child(3)
+19:25:09.286 [Forwarding actions on session 67eebbbfd37e0d84bc59ee30a69a0c6b to remote] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- **********************************
+19:25:09.427 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- The locator will find By.cssSelector: .figure:nth-child(3)
+19:25:09.427 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- **********************************
+19:25:09.452 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- The locator is By.cssSelector: .figure:nth-child(3)
+19:25:09.452 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- **********************************
+19:25:09.473 [main] INFO  com.internethero.tests.TestBase -%PARSER_ERROR[kvp]- Test result: PASSED checkFirstHover
+19:25:12.654 [main] INFO  com.internethero.tests.TestBase -%PARSER_ERROR[kvp]- Start test: checkLastHover
+19:25:12.654 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- The locator will find By.linkText: Hovers
+19:25:12.654 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- **********************************
+19:25:12.685 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- The locator is By.linkText: Hovers
+19:25:12.685 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- **********************************
+19:25:13.039 [Forwarding actions on session f3581da321260ce921f120c6f790f285 to remote] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- The locator will find By.cssSelector: .figure:nth-child(5)
+19:25:13.039 [Forwarding actions on session f3581da321260ce921f120c6f790f285 to remote] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- **********************************
+19:25:13.070 [Forwarding actions on session f3581da321260ce921f120c6f790f285 to remote] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- The locator is By.cssSelector: .figure:nth-child(5)
+19:25:13.070 [Forwarding actions on session f3581da321260ce921f120c6f790f285 to remote] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- **********************************
+19:25:13.205 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- The locator will find By.cssSelector: .figure:nth-child(5)
+19:25:13.205 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- **********************************
+19:25:13.223 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- The locator is By.cssSelector: .figure:nth-child(5)
+19:25:13.223 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- **********************************
+19:25:13.238 [main] INFO  com.internethero.tests.TestBase -%PARSER_ERROR[kvp]- Test result: PASSED checkLastHover

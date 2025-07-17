@@ -1,0 +1,124 @@
+19:23:53.961 [main] INFO  com.internethero.tests.TestBase -%PARSER_ERROR[kvp]- Start test: rightClickMenuTest
+19:23:53.989 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- The locator will find By.linkText: Context Menu
+19:23:53.990 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- **********************************
+19:23:54.025 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- The locator is By.linkText: Context Menu
+19:23:54.025 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- **********************************
+19:23:54.267 [Forwarding actions on session 0246218104f84a7247f85c74b87e4c5d to remote] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- The locator will find By.id: hot-spot
+19:23:54.267 [Forwarding actions on session 0246218104f84a7247f85c74b87e4c5d to remote] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- **********************************
+19:23:54.295 [Forwarding actions on session 0246218104f84a7247f85c74b87e4c5d to remote] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- The locator is By.id: hot-spot
+19:23:54.296 [Forwarding actions on session 0246218104f84a7247f85c74b87e4c5d to remote] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- **********************************
+19:23:54.515 [main] INFO  com.internethero.tests.TestBase -%PARSER_ERROR[kvp]- Test result: PASSED rightClickMenuTest
+19:23:57.649 [main] INFO  com.internethero.tests.TestBase -%PARSER_ERROR[kvp]- Start test: selectFromDropdownListTest
+19:23:57.653 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- The locator will find By.linkText: Dropdown
+19:23:57.653 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- **********************************
+19:23:57.677 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- The locator is By.linkText: Dropdown
+19:23:57.677 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- **********************************
+19:23:57.906 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- The locator will find By.id: dropdown
+19:23:57.907 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- **********************************
+19:23:57.924 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- The locator is By.id: dropdown
+19:23:57.924 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- **********************************
+19:23:57.937 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- The locator will find By.id: dropdown
+19:23:57.937 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- **********************************
+19:23:57.945 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- The locator is By.id: dropdown
+19:23:57.945 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- **********************************
+19:23:57.962 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- The locator will find By.id: dropdown
+19:23:57.962 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- **********************************
+19:23:57.979 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- The locator is By.id: dropdown
+19:23:57.979 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- **********************************
+19:23:58.059 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- The locator will find By.id: dropdown
+19:23:58.059 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- **********************************
+19:23:58.079 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- The locator is By.id: dropdown
+19:23:58.079 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- **********************************
+19:23:58.081 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- The locator will find By.id: dropdown
+19:23:58.081 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- **********************************
+19:23:58.108 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- The locator is By.id: dropdown
+19:23:58.108 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- **********************************
+19:23:58.116 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- The locator will find By.id: dropdown
+19:23:58.116 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- **********************************
+19:23:58.128 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- The locator is By.id: dropdown
+19:23:58.128 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- **********************************
+19:23:58.180 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- The locator will find By.id: dropdown
+19:23:58.190 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- **********************************
+19:23:58.207 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- The locator is By.id: dropdown
+19:23:58.207 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- **********************************
+19:23:58.221 [main] INFO  com.internethero.tests.TestBase -%PARSER_ERROR[kvp]- Test result: PASSED selectFromDropdownListTest
+19:24:01.279 [main] INFO  com.internethero.tests.TestBase -%PARSER_ERROR[kvp]- Start test: frameTest
+19:24:01.279 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- The locator will find By.linkText: Frames
+19:24:01.279 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- **********************************
+19:24:01.294 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- The locator is By.linkText: Frames
+19:24:01.308 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- **********************************
+19:24:01.582 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- The locator will find By.linkText: iFrame
+19:24:01.582 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- **********************************
+19:24:01.611 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- The locator is By.linkText: iFrame
+19:24:01.612 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- **********************************
+19:24:02.326 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- The locator will find By.cssSelector: .example
+19:24:02.326 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- **********************************
+19:24:02.345 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- The locator is By.cssSelector: .example
+19:24:02.345 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- **********************************
+19:24:02.392 [main] INFO  com.internethero.tests.TestBase -%PARSER_ERROR[kvp]- Test result: PASSED frameTest
+19:24:05.633 [main] INFO  com.internethero.tests.TestBase -%PARSER_ERROR[kvp]- Start test: nestedFrameTest
+19:24:05.634 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- The locator will find By.linkText: Frames
+19:24:05.635 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- **********************************
+19:24:05.663 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- The locator is By.linkText: Frames
+19:24:05.663 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- **********************************
+19:24:05.890 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- The locator will find By.linkText: Nested Frames
+19:24:05.890 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- **********************************
+19:24:05.910 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- The locator is By.linkText: Nested Frames
+19:24:05.910 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- **********************************
+19:24:06.469 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- The locator will find By.tagName: body
+19:24:06.470 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- **********************************
+19:24:06.494 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- The locator is By.tagName: body
+19:24:06.494 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- **********************************
+19:24:06.515 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- The locator will find By.tagName: body
+19:24:06.515 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- **********************************
+19:24:06.536 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- The locator is By.tagName: body
+19:24:06.536 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- **********************************
+19:24:06.547 [main] INFO  com.internethero.tests.TestBase -%PARSER_ERROR[kvp]- Test result: PASSED nestedFrameTest
+19:24:10.824 [main] INFO  com.internethero.tests.TestBase -%PARSER_ERROR[kvp]- Start test: checkFirstHover
+19:24:10.825 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- The locator will find By.linkText: Hovers
+19:24:10.827 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- **********************************
+19:24:10.856 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- The locator is By.linkText: Hovers
+19:24:10.857 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- **********************************
+19:24:11.242 [Forwarding actions on session e6e6be3ff2e3368c239b8fcc5d8676fb to remote] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- The locator will find By.cssSelector: .figure:nth-child(3)
+19:24:11.243 [Forwarding actions on session e6e6be3ff2e3368c239b8fcc5d8676fb to remote] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- **********************************
+19:24:11.298 [Forwarding actions on session e6e6be3ff2e3368c239b8fcc5d8676fb to remote] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- The locator is By.cssSelector: .figure:nth-child(3)
+19:24:11.299 [Forwarding actions on session e6e6be3ff2e3368c239b8fcc5d8676fb to remote] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- **********************************
+19:24:11.429 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- The locator will find By.cssSelector: .figure:nth-child(3)
+19:24:11.429 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- **********************************
+19:24:11.457 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- The locator is By.cssSelector: .figure:nth-child(3)
+19:24:11.457 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- **********************************
+19:24:11.494 [main] INFO  com.internethero.tests.TestBase -%PARSER_ERROR[kvp]- Test result: PASSED checkFirstHover
+19:24:22.864 [main] INFO  com.internethero.tests.TestBase -%PARSER_ERROR[kvp]- Start test: checkLastHover
+19:24:22.866 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- The locator will find By.linkText: Hovers
+19:24:22.866 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- **********************************
+19:24:22.893 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- The locator is By.linkText: Hovers
+19:24:22.893 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- **********************************
+19:24:23.241 [Forwarding actions on session ac581a658191d61aa167a7da6d4b8e00 to remote] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- The locator will find By.cssSelector: .figure:nth-child(5)
+19:24:23.241 [Forwarding actions on session ac581a658191d61aa167a7da6d4b8e00 to remote] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- **********************************
+19:24:23.261 [Forwarding actions on session ac581a658191d61aa167a7da6d4b8e00 to remote] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- The locator is By.cssSelector: .figure:nth-child(5)
+19:24:23.261 [Forwarding actions on session ac581a658191d61aa167a7da6d4b8e00 to remote] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- **********************************
+19:24:23.398 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- The locator will find By.cssSelector: .figure:nth-child(5)
+19:24:23.398 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- **********************************
+19:24:23.427 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- The locator is By.cssSelector: .figure:nth-child(5)
+19:24:23.427 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- **********************************
+19:24:23.462 [main] INFO  com.internethero.tests.TestBase -%PARSER_ERROR[kvp]- Test result: PASSED checkLastHover
+19:24:29.684 [main] INFO  com.internethero.tests.TestBase -%PARSER_ERROR[kvp]- Start test: jsAlertTest
+19:24:29.684 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- The locator will find By.linkText: JavaScript Alerts
+19:24:29.684 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- **********************************
+19:24:29.707 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- The locator is By.linkText: JavaScript Alerts
+19:24:29.708 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- **********************************
+19:24:29.960 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- Test have a problem
+19:24:29.960 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- **********************************
+19:24:29.960 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- Method --> executeScript
+19:24:29.961 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- **********************************
+19:24:29.962 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- TargetException --> org.openqa.selenium.JavascriptException: javascript error: Cannot read properties of null (reading 'style')
+  (Session info: chrome=138.0.7204.50)
+Build info: version: '4.26.0', revision: '8ccf0219d7'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [4903983c8591461d8f56b1a687caa651, executeScript {args=[], script=document.getElementById('fixedban').style.display = 'none';}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.50, chrome: {chromedriverVersion: 137.0.7151.119 (e0ac9d12dff..., userDataDir: C:\Users\uragv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49856}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49856/devtoo..., se:cdpVersion: 138.0.7204.50, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4903983c8591461d8f56b1a687caa651
+19:24:29.962 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- **********************************
+19:24:29.962 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- Object target --> ChromeDriver: chrome on windows (4903983c8591461d8f56b1a687caa651)
+19:24:29.962 [main] INFO  com.internethero.utils.MyListener -%PARSER_ERROR[kvp]- **********************************

@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="alerts" verbose="1">
+    <test name="alerts">
+        <classes>
+            <class name="com.internethero.tests.JavaScripAlertTests"/>
+            <class name="com.internethero.tests.HoverTests"/>
+        </classes>
+    </test>
+</suite>

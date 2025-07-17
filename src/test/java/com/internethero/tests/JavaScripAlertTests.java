@@ -9,7 +9,7 @@ public class JavaScripAlertTests extends TestBase {
 
     @BeforeMethod
     public void precondition() {
-        new HomePage(driver).getJavaScriptAlerts().hideIframes();
+        new HomePage(driver).getJavaScriptAlerts();
     }
 
 
