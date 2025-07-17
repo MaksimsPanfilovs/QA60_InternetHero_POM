@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-07-17T19:47:24 MESZ" name="smoke" finished-at="2025-07-17T19:48:24 MESZ" duration-ms="60760">
+    <groups>
+    </groups>
+    <test started-at="2025-07-17T19:47:24 MESZ" name="smoke" finished-at="2025-07-17T19:48:24 MESZ" duration-ms="60760">
+      <class name="com.internethero.tests.JavaScripAlertTests">
+        <test-method is-config="true" signature="init(java.lang.reflect.Method)[pri:0, instance:com.internethero.tests.JavaScripAlertTests@6f46426d]" started-at="2025-07-17T19:48:06 MESZ" name="init" finished-at="2025-07-17T19:48:10 MESZ" duration-ms="4482" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.internethero.tests.JavaScripAlertTests.jsAlertTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method is-config="true" signature="precondition()[pri:0, instance:com.internethero.tests.JavaScripAlertTests@6f46426d]" started-at="2025-07-17T19:48:10 MESZ" name="precondition" finished-at="2025-07-17T19:48:11 MESZ" duration-ms="414" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- precondition -->
+        <test-method signature="jsAlertTest()[pri:0, instance:com.internethero.tests.JavaScripAlertTests@6f46426d]" started-at="2025-07-17T19:48:11 MESZ" name="jsAlertTest" finished-at="2025-07-17T19:48:11 MESZ" duration-ms="165" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jsAlertTest -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.internethero.tests.JavaScripAlertTests@6f46426d]" started-at="2025-07-17T19:48:11 MESZ" name="tearDown" finished-at="2025-07-17T19:48:12 MESZ" duration-ms="1201" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=jsAlertTest status=SUCCESS method=JavaScripAlertTests.jsAlertTest()[pri:0, instance:com.internethero.tests.JavaScripAlertTests@6f46426d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="init(java.lang.reflect.Method)[pri:0, instance:com.internethero.tests.JavaScripAlertTests@6f46426d]" started-at="2025-07-17T19:48:12 MESZ" name="init" finished-at="2025-07-17T19:48:16 MESZ" duration-ms="4573" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.internethero.tests.JavaScripAlertTests.jsConfirmAlertTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method is-config="true" signature="precondition()[pri:0, instance:com.internethero.tests.JavaScripAlertTests@6f46426d]" started-at="2025-07-17T19:48:16 MESZ" name="precondition" finished-at="2025-07-17T19:48:17 MESZ" duration-ms="347" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- precondition -->
+        <test-method signature="jsConfirmAlertTest()[pri:0, instance:com.internethero.tests.JavaScripAlertTests@6f46426d]" started-at="2025-07-17T19:48:17 MESZ" name="jsConfirmAlertTest" finished-at="2025-07-17T19:48:17 MESZ" duration-ms="128" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jsConfirmAlertTest -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.internethero.tests.JavaScripAlertTests@6f46426d]" started-at="2025-07-17T19:48:17 MESZ" name="tearDown" finished-at="2025-07-17T19:48:18 MESZ" duration-ms="1201" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=jsConfirmAlertTest status=SUCCESS method=JavaScripAlertTests.jsConfirmAlertTest()[pri:0, instance:com.internethero.tests.JavaScripAlertTests@6f46426d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="init(java.lang.reflect.Method)[pri:0, instance:com.internethero.tests.JavaScripAlertTests@6f46426d]" started-at="2025-07-17T19:48:18 MESZ" name="init" finished-at="2025-07-17T19:48:23 MESZ" duration-ms="4429" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.internethero.tests.JavaScripAlertTests.jsPromtAlertTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method is-config="true" signature="precondition()[pri:0, instance:com.internethero.tests.JavaScripAlertTests@6f46426d]" started-at="2025-07-17T19:48:23 MESZ" name="precondition" finished-at="2025-07-17T19:48:23 MESZ" duration-ms="326" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- precondition -->
+        <test-method signature="jsPromtAlertTest()[pri:0, instance:com.internethero.tests.JavaScripAlertTests@6f46426d]" started-at="2025-07-17T19:48:23 MESZ" name="jsPromtAlertTest" finished-at="2025-07-17T19:48:23 MESZ" duration-ms="154" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jsPromtAlertTest -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.internethero.tests.JavaScripAlertTests@6f46426d]" started-at="2025-07-17T19:48:23 MESZ" name="tearDown" finished-at="2025-07-17T19:48:24 MESZ" duration-ms="1276" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=jsPromtAlertTest status=SUCCESS method=JavaScripAlertTests.jsPromtAlertTest()[pri:0, instance:com.internethero.tests.JavaScripAlertTests@6f46426d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.internethero.tests.JavaScripAlertTests -->
+      <class name="com.internethero.tests.DropdownListTests">
+        <test-method is-config="true" signature="init(java.lang.reflect.Method)[pri:0, instance:com.internethero.tests.DropdownListTests@759d26fb]" started-at="2025-07-17T19:47:32 MESZ" name="init" finished-at="2025-07-17T19:47:37 MESZ" duration-ms="4596" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.internethero.tests.DropdownListTests.selectFromDropdownListTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method is-config="true" signature="precondition()[pri:0, instance:com.internethero.tests.DropdownListTests@759d26fb]" started-at="2025-07-17T19:47:37 MESZ" name="precondition" finished-at="2025-07-17T19:47:37 MESZ" duration-ms="278" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- precondition -->
+        <test-method signature="selectFromDropdownListTest()[pri:0, instance:com.internethero.tests.DropdownListTests@759d26fb]" started-at="2025-07-17T19:47:37 MESZ" name="selectFromDropdownListTest" finished-at="2025-07-17T19:47:38 MESZ" duration-ms="535" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectFromDropdownListTest -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.internethero.tests.DropdownListTests@759d26fb]" started-at="2025-07-17T19:47:38 MESZ" name="tearDown" finished-at="2025-07-17T19:47:39 MESZ" duration-ms="1328" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=selectFromDropdownListTest status=SUCCESS method=DropdownListTests.selectFromDropdownListTest()[pri:0, instance:com.internethero.tests.DropdownListTests@759d26fb] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.internethero.tests.DropdownListTests -->
+      <class name="com.internethero.tests.HoverTests">
+        <test-method is-config="true" signature="init(java.lang.reflect.Method)[pri:0, instance:com.internethero.tests.HoverTests@3d5c822d]" started-at="2025-07-17T19:47:53 MESZ" name="init" finished-at="2025-07-17T19:47:57 MESZ" duration-ms="4609" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.internethero.tests.HoverTests.checkFirstHover()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method is-config="true" signature="precondition()[pri:0, instance:com.internethero.tests.HoverTests@3d5c822d]" started-at="2025-07-17T19:47:57 MESZ" name="precondition" finished-at="2025-07-17T19:47:58 MESZ" duration-ms="464" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- precondition -->
+        <test-method signature="checkFirstHover()[pri:0, instance:com.internethero.tests.HoverTests@3d5c822d]" started-at="2025-07-17T19:47:58 MESZ" name="checkFirstHover" finished-at="2025-07-17T19:47:58 MESZ" duration-ms="180" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFirstHover -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.internethero.tests.HoverTests@3d5c822d]" started-at="2025-07-17T19:47:58 MESZ" name="tearDown" finished-at="2025-07-17T19:47:59 MESZ" duration-ms="1143" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=checkFirstHover status=SUCCESS method=HoverTests.checkFirstHover()[pri:0, instance:com.internethero.tests.HoverTests@3d5c822d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="init(java.lang.reflect.Method)[pri:0, instance:com.internethero.tests.HoverTests@3d5c822d]" started-at="2025-07-17T19:47:59 MESZ" name="init" finished-at="2025-07-17T19:48:04 MESZ" duration-ms="4559" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.internethero.tests.HoverTests.checkLastHover()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method is-config="true" signature="precondition()[pri:0, instance:com.internethero.tests.HoverTests@3d5c822d]" started-at="2025-07-17T19:48:04 MESZ" name="precondition" finished-at="2025-07-17T19:48:04 MESZ" duration-ms="449" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- precondition -->
+        <test-method signature="checkLastHover()[pri:0, instance:com.internethero.tests.HoverTests@3d5c822d]" started-at="2025-07-17T19:48:04 MESZ" name="checkLastHover" finished-at="2025-07-17T19:48:04 MESZ" duration-ms="200" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLastHover -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.internethero.tests.HoverTests@3d5c822d]" started-at="2025-07-17T19:48:04 MESZ" name="tearDown" finished-at="2025-07-17T19:48:06 MESZ" duration-ms="1165" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=checkLastHover status=SUCCESS method=HoverTests.checkLastHover()[pri:0, instance:com.internethero.tests.HoverTests@3d5c822d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.internethero.tests.HoverTests -->
+      <class name="com.internethero.tests.ContextMenuTests">
+        <test-method is-config="true" signature="init(java.lang.reflect.Method)[pri:0, instance:com.internethero.tests.ContextMenuTests@74455848]" started-at="2025-07-17T19:47:24 MESZ" name="init" finished-at="2025-07-17T19:47:30 MESZ" duration-ms="6391" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.internethero.tests.ContextMenuTests.rightClickMenuTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method is-config="true" signature="precondition()[pri:0, instance:com.internethero.tests.ContextMenuTests@74455848]" started-at="2025-07-17T19:47:30 MESZ" name="precondition" finished-at="2025-07-17T19:47:30 MESZ" duration-ms="369" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- precondition -->
+        <test-method signature="rightClickMenuTest()[pri:0, instance:com.internethero.tests.ContextMenuTests@74455848]" started-at="2025-07-17T19:47:30 MESZ" name="rightClickMenuTest" finished-at="2025-07-17T19:47:31 MESZ" duration-ms="354" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rightClickMenuTest -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.internethero.tests.ContextMenuTests@74455848]" started-at="2025-07-17T19:47:31 MESZ" name="tearDown" finished-at="2025-07-17T19:47:32 MESZ" duration-ms="1378" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=rightClickMenuTest status=SUCCESS method=ContextMenuTests.rightClickMenuTest()[pri:0, instance:com.internethero.tests.ContextMenuTests@74455848] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.internethero.tests.ContextMenuTests -->
+      <class name="com.internethero.tests.FrameTests">
+        <test-method is-config="true" signature="init(java.lang.reflect.Method)[pri:0, instance:com.internethero.tests.FrameTests@3c73951]" started-at="2025-07-17T19:47:39 MESZ" name="init" finished-at="2025-07-17T19:47:43 MESZ" duration-ms="4480" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.internethero.tests.FrameTests.frameTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method is-config="true" signature="precondition()[pri:0, instance:com.internethero.tests.FrameTests@3c73951]" started-at="2025-07-17T19:47:43 MESZ" name="precondition" finished-at="2025-07-17T19:47:44 MESZ" duration-ms="312" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- precondition -->
+        <test-method signature="frameTest()[pri:0, instance:com.internethero.tests.FrameTests@3c73951]" started-at="2025-07-17T19:47:44 MESZ" name="frameTest" finished-at="2025-07-17T19:47:45 MESZ" duration-ms="1538" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- frameTest -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.internethero.tests.FrameTests@3c73951]" started-at="2025-07-17T19:47:45 MESZ" name="tearDown" finished-at="2025-07-17T19:47:46 MESZ" duration-ms="1228" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=frameTest status=SUCCESS method=FrameTests.frameTest()[pri:0, instance:com.internethero.tests.FrameTests@3c73951] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="init(java.lang.reflect.Method)[pri:0, instance:com.internethero.tests.FrameTests@3c73951]" started-at="2025-07-17T19:47:46 MESZ" name="init" finished-at="2025-07-17T19:47:51 MESZ" duration-ms="4408" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.internethero.tests.FrameTests.nestedFrameTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method is-config="true" signature="precondition()[pri:0, instance:com.internethero.tests.FrameTests@3c73951]" started-at="2025-07-17T19:47:51 MESZ" name="precondition" finished-at="2025-07-17T19:47:51 MESZ" duration-ms="316" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- precondition -->
+        <test-method signature="nestedFrameTest()[pri:0, instance:com.internethero.tests.FrameTests@3c73951]" started-at="2025-07-17T19:47:51 MESZ" name="nestedFrameTest" finished-at="2025-07-17T19:47:52 MESZ" duration-ms="565" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nestedFrameTest -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.internethero.tests.FrameTests@3c73951]" started-at="2025-07-17T19:47:52 MESZ" name="tearDown" finished-at="2025-07-17T19:47:53 MESZ" duration-ms="1147" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=nestedFrameTest status=SUCCESS method=FrameTests.nestedFrameTest()[pri:0, instance:com.internethero.tests.FrameTests@3c73951] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.internethero.tests.FrameTests -->
+    </test> <!-- smoke -->
+  </suite> <!-- smoke -->
+</testng-results>

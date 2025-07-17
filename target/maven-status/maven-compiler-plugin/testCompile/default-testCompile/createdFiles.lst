@@ -1,0 +1,9 @@
+com\internethero\tests\DragAndDropTests.class
+com\internethero\tests\FileUploadTests.class
+com\internethero\tests\JavaScripAlertTests.class
+com\internethero\tests\TestBase.class
+com\internethero\tests\HoverTests.class
+com\internethero\tests\FrameTests.class
+com\internethero\tests\DropdownListTests.class
+com\internethero\tests\ContextMenuTests.class
+com\internethero\tests\HorizontalSliderTests.class

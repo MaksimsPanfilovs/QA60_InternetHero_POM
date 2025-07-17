@@ -1,0 +1,12 @@
+com\internethero\config\ApplicationManeger.class
+com\internethero\pages\DragAndDropPage.class
+com\internethero\pages\HoverPage.class
+com\internethero\pages\DropdownListPage.class
+com\internethero\pages\FramePage.class
+com\internethero\pages\BasePage.class
+com\internethero\pages\HorizontalSliderPage.class
+com\internethero\utils\MyListener.class
+com\internethero\pages\HomePage.class
+com\internethero\pages\FileUploadPage.class
+com\internethero\pages\ContextMenuPage.class
+com\internethero\pages\JavaScriptAlertsPage.class

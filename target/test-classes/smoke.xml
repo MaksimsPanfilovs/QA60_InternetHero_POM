@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="smoke" verbose="1">
+    <test name="smoke">
+        <classes>
+            <class name="com.internethero.tests.ContextMenuTests"/>
+            <class name="com.internethero.tests.DropdownListTests"/>
+            <class name="com.internethero.tests.FrameTests"/>
+            <class name="com.internethero.tests.HoverTests"/>
+            <class name="com.internethero.tests.JavaScripAlertTests"/>
+        </classes>
+    </test>
+</suite>
